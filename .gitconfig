@@ -1,7 +1,0 @@
-[user]
-	email = diodev.@gmail.com
-	name = diorgnes
-[init]
-	defaultBranch = main
-[core]
-	autocrlf = true
